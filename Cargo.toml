@@ -1,0 +1,7 @@
+[package]
+name = "tictactoe-console-rust"
+version = "0.1.0"
+authors = ["lukealba <lalbarracin2000@gmail.com>"]
+
+[dependencies]
+itertools = "0.7.8"
